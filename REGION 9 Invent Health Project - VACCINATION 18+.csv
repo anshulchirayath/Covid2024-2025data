@@ -1,0 +1,681 @@
+Vaccine,Geographic Level,Geographic Name,Demographic Level,Demographic Name,indicator_label,indicator_category_label,Month_Week,Week_ending,Estimate,CI_Half_width_95pct,Unweighted Sample Size,Current_Season_Week_Ending_Label,COVID_season,suppression_flag
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,September Week 4,09/28/2024 12:00:00 AM,9.8,4.61,127,09/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,September Week 4,09/28/2024 12:00:00 AM,35.1,7.5985,328,09/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Received a vaccination,September Week 4,09/28/2024 12:00:00 AM,11.6,2.3533,9854,09/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Received a vaccination,September Week 4,09/28/2024 12:00:00 AM,7.8,2.5596,9267,09/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,Up-to-date,Yes,September Week 4,09/28/2024 12:00:00 AM,6.8,6.3545,2721,09/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,September Week 4,09/28/2024 12:00:00 AM,49.8,21.2449,46,09/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,Up-to-date,Yes,September Week 4,09/28/2024 12:00:00 AM,4.9,1.8417,4777,09/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,September Week 4,09/28/2024 12:00:00 AM,41.2,5.7068,577,09/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,September Week 4,09/28/2024 12:00:00 AM,23.6,6.3427,328,09/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,Up-to-date,Yes,September Week 4,09/28/2024 12:00:00 AM,7.8,2.5596,9267,09/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,September Week 4,09/28/2024 12:00:00 AM,28.6,5.1908,577,09/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Received a vaccination,September Week 4,09/28/2024 12:00:00 AM,6.8,6.3545,2721,09/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,Up-to-date,Yes,September Week 4,09/28/2024 12:00:00 AM,11.6,2.3533,9854,09/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,September Week 4,09/28/2024 12:00:00 AM,33.5,7.6944,328,09/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,September Week 4,09/28/2024 12:00:00 AM,9.2,6.3414,46,09/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,September Week 4,09/28/2024 12:00:00 AM,57.5,11.3397,127,09/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,September Week 4,09/28/2024 12:00:00 AM,27.8,10.6222,127,09/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,September Week 4,09/28/2024 12:00:00 AM,18.6,4.1136,577,09/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Received a vaccination,September Week 4,09/28/2024 12:00:00 AM,4.9,1.8417,4777,09/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,September Week 4,09/28/2024 12:00:00 AM,34.2,22.1775,46,09/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,September Week 3,09/21/2024 12:00:00 AM,31.5,6.1366,289,09/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,September Week 3,09/21/2024 12:00:00 AM,22.3,12.0768,64,09/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,September Week 3,09/21/2024 12:00:00 AM,23.7,4.6326,466,09/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Received a vaccination,September Week 3,09/21/2024 12:00:00 AM,4.2,1.4053,4777,09/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,September Week 3,09/21/2024 12:00:00 AM,21.9,10.8114,64,09/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,September Week 3,09/21/2024 12:00:00 AM,18.1,4.6264,289,09/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,September Week 3,09/21/2024 12:00:00 AM,32.9,8.0158,308,09/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Received a vaccination,September Week 3,09/21/2024 12:00:00 AM,6.6,2.3428,9267,09/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Received a vaccination,September Week 3,09/21/2024 12:00:00 AM,9.6,1.8489,9854,09/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,Up-to-date,Yes,September Week 3,09/21/2024 12:00:00 AM,4.8,4.9437,2721,09/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,September Week 3,09/21/2024 12:00:00 AM,37.1,5.7525,466,09/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,Up-to-date,Yes,September Week 3,09/21/2024 12:00:00 AM,6.6,2.3428,9267,09/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,September Week 3,09/21/2024 12:00:00 AM,28.2,6.8725,308,09/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,September Week 3,09/21/2024 12:00:00 AM,29.6,5.5177,466,09/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Received a vaccination,September Week 3,09/21/2024 12:00:00 AM,4.8,4.9437,2721,09/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,September Week 3,09/21/2024 12:00:00 AM,32.3,7.6318,308,09/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,Up-to-date,Yes,September Week 3,09/21/2024 12:00:00 AM,9.6,1.8489,9854,09/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,Up-to-date,Yes,September Week 3,09/21/2024 12:00:00 AM,4.2,1.4053,4777,09/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,September Week 3,09/21/2024 12:00:00 AM,51,13.8471,64,09/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,September Week 3,09/21/2024 12:00:00 AM,46.3,6.5973,289,09/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,September Week 2,09/14/2024 12:00:00 AM,32.1,5.6706,460,09/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,Up-to-date,Yes,September Week 2,09/14/2024 12:00:00 AM,5.8,1.2873,9854,09/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,September Week 2,09/14/2024 12:00:00 AM,18.1,5.5933,215,09/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,Up-to-date,Yes,September Week 2,09/14/2024 12:00:00 AM,3.1,1.1754,4777,09/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,September Week 2,09/14/2024 12:00:00 AM,32,7.842,215,09/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Received a vaccination,September Week 2,09/14/2024 12:00:00 AM,4.4,5.4638,2721,09/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Received a vaccination,September Week 2,09/14/2024 12:00:00 AM,3.1,1.1754,4777,09/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,September Week 2,09/14/2024 12:00:00 AM,32.6,6.5178,375,09/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Received a vaccination,September Week 2,09/14/2024 12:00:00 AM,3.3,1.2007,9267,09/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,September Week 2,09/14/2024 12:00:00 AM,42.3,11.7816,98,09/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,September Week 2,09/14/2024 12:00:00 AM,46.7,8.0611,215,09/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,September Week 2,09/14/2024 12:00:00 AM,34.7,6.5427,375,09/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,September Week 2,09/14/2024 12:00:00 AM,26.1,5.1296,460,09/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,September Week 2,09/14/2024 12:00:00 AM,36.1,6.0355,460,09/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,September Week 2,09/14/2024 12:00:00 AM,35.4,12.5336,98,09/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Received a vaccination,September Week 2,09/14/2024 12:00:00 AM,5.8,1.2873,9854,09/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,Up-to-date,Yes,September Week 2,09/14/2024 12:00:00 AM,3.3,1.2007,9267,09/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,September Week 2,09/14/2024 12:00:00 AM,17.9,8.8154,98,09/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,Up-to-date,Yes,September Week 2,09/14/2024 12:00:00 AM,4.4,5.4638,2721,09/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,September Week 2,09/14/2024 12:00:00 AM,29.5,6.0175,375,09/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,September Week 1,09/07/2024 12:00:00 AM,34.1,7.8156,262,09/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,Up-to-date,Yes,September Week 1,09/07/2024 12:00:00 AM,2.2,1.0247,4777,09/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,September Week 1,09/07/2024 12:00:00 AM,22.7,5.3326,266,09/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,September Week 1,09/07/2024 12:00:00 AM,29.3,5.6255,384,09/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Received a vaccination,September Week 1,09/07/2024 12:00:00 AM,1.3,0.3047,9267,09/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,September Week 1,09/07/2024 12:00:00 AM,26.7,6.0847,266,09/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Received a vaccination,September Week 1,09/07/2024 12:00:00 AM,2.2,1.0247,4777,09/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Received a vaccination,September Week 1,09/07/2024 12:00:00 AM,1.9,1.8302,2721,09/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,September Week 1,09/07/2024 12:00:00 AM,48.3,6.6218,266,09/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,September Week 1,09/07/2024 12:00:00 AM,27.8,6.771,262,09/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,September Week 1,09/07/2024 12:00:00 AM,50.7,12.037,85,09/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,September Week 1,09/07/2024 12:00:00 AM,15.7,7.3717,85,09/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,September Week 1,09/07/2024 12:00:00 AM,36.9,7.7097,262,09/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Received a vaccination,September Week 1,09/07/2024 12:00:00 AM,3.7,1.1741,9854,09/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,September Week 1,09/07/2024 12:00:00 AM,36.5,6.2047,384,09/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,September Week 1,09/07/2024 12:00:00 AM,30.4,5.8271,384,09/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,Up-to-date,Yes,September Week 1,09/07/2024 12:00:00 AM,1.9,1.8302,2721,09/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,Up-to-date,Yes,September Week 1,09/07/2024 12:00:00 AM,1.3,0.3047,9267,09/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,September Week 1,09/07/2024 12:00:00 AM,31.7,11.0414,85,09/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,Up-to-date,Yes,September Week 1,09/07/2024 12:00:00 AM,3.7,1.1741,9854,09/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Received a vaccination,October Week 4,10/26/2024 12:00:00 AM,10.2,2.7549,2721,10/26/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,October Week 4,10/26/2024 12:00:00 AM,12.9,9.2344,57,10/26/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,October Week 4,10/26/2024 12:00:00 AM,52.2,13.5328,57,10/26/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,October Week 4,10/26/2024 12:00:00 AM,24.7,12.0352,57,10/26/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,Up-to-date,Yes,October Week 4,10/26/2024 12:00:00 AM,8.9,2.5561,4777,10/26/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Received a vaccination,October Week 4,10/26/2024 12:00:00 AM,8.9,2.5561,4777,10/26/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,October Week 4,10/26/2024 12:00:00 AM,29.2,9.1875,130,10/26/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,October Week 4,10/26/2024 12:00:00 AM,21.4,8.413,130,10/26/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,October Week 4,10/26/2024 12:00:00 AM,40.5,9.761,130,10/26/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,Up-to-date,Yes,October Week 4,10/26/2024 12:00:00 AM,17.8,2.2085,9854,10/26/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Received a vaccination,October Week 4,10/26/2024 12:00:00 AM,17.8,2.2085,9854,10/26/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,October Week 4,10/26/2024 12:00:00 AM,28.1,6.4726,324,10/26/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,October Week 4,10/26/2024 12:00:00 AM,17.8,5.1486,324,10/26/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,October Week 4,10/26/2024 12:00:00 AM,36.3,6.772,324,10/26/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,Up-to-date,Yes,October Week 4,10/26/2024 12:00:00 AM,15.9,2.1109,9267,10/26/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Received a vaccination,October Week 4,10/26/2024 12:00:00 AM,15.9,2.1109,9267,10/26/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,October Week 4,10/26/2024 12:00:00 AM,30.6,4.8506,482,10/26/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,October Week 4,10/26/2024 12:00:00 AM,14.8,3.542,482,10/26/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,October Week 4,10/26/2024 12:00:00 AM,38.7,5.1012,482,10/26/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,Up-to-date,Yes,October Week 4,10/26/2024 12:00:00 AM,10.2,2.7549,2721,10/26/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,October Week 3,10/19/2024 12:00:00 AM,12.9,5.9147,106,10/19/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,Up-to-date,Yes,October Week 3,10/19/2024 12:00:00 AM,7.3,1.2232,4777,10/19/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Received a vaccination,October Week 3,10/19/2024 12:00:00 AM,7.3,1.2232,4777,10/19/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Received a vaccination,October Week 3,10/19/2024 12:00:00 AM,17.2,2.0286,9854,10/19/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,October Week 3,10/19/2024 12:00:00 AM,29,9.4895,111,10/19/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,October Week 3,10/19/2024 12:00:00 AM,46.6,10.7559,106,10/19/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,October Week 3,10/19/2024 12:00:00 AM,17.1,3.588,587,10/19/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,October Week 3,10/19/2024 12:00:00 AM,13.2,5.3509,111,10/19/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,October Week 3,10/19/2024 12:00:00 AM,30.5,4.6528,587,10/19/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Received a vaccination,October Week 3,10/19/2024 12:00:00 AM,14.1,1.5011,9267,10/19/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,October Week 3,10/19/2024 12:00:00 AM,13.4,4.5444,361,10/19/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,Up-to-date,Yes,October Week 3,10/19/2024 12:00:00 AM,9.1,1.7612,2721,10/19/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,October Week 3,10/19/2024 12:00:00 AM,35.8,6.5198,361,10/19/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,Up-to-date,Yes,October Week 3,10/19/2024 12:00:00 AM,17.2,2.0286,9854,10/19/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,October Week 3,10/19/2024 12:00:00 AM,38.2,4.7735,587,10/19/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,October Week 3,10/19/2024 12:00:00 AM,31.4,10.8115,106,10/19/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,Up-to-date,Yes,October Week 3,10/19/2024 12:00:00 AM,14.1,1.5011,9267,10/19/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,October Week 3,10/19/2024 12:00:00 AM,33.6,6.4302,361,10/19/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Received a vaccination,October Week 3,10/19/2024 12:00:00 AM,9.1,1.7612,2721,10/19/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,October Week 3,10/19/2024 12:00:00 AM,50.5,12.1848,111,10/19/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,October Week 2,10/12/2024 12:00:00 AM,26.9,7.3323,277,10/12/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,October Week 2,10/12/2024 12:00:00 AM,29.3,4.7234,468,10/12/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Received a vaccination,October Week 2,10/12/2024 12:00:00 AM,13,1.4034,9267,10/12/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,Up-to-date,Yes,October Week 2,10/12/2024 12:00:00 AM,14.9,1.7185,9854,10/12/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,Up-to-date,Yes,October Week 2,10/12/2024 12:00:00 AM,13,1.4034,9267,10/12/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,Up-to-date,Yes,October Week 2,10/12/2024 12:00:00 AM,9,1.768,2721,10/12/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,October Week 2,10/12/2024 12:00:00 AM,22.7,4.5308,468,10/12/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,October Week 2,10/12/2024 12:00:00 AM,39.7,9.828,187,10/12/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,October Week 2,10/12/2024 12:00:00 AM,37.7,8.2761,277,10/12/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,October Week 2,10/12/2024 12:00:00 AM,25.7,9.8084,187,10/12/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Received a vaccination,October Week 2,10/12/2024 12:00:00 AM,9,1.768,2721,10/12/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Received a vaccination,October Week 2,10/12/2024 12:00:00 AM,14.9,1.7185,9854,10/12/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,October Week 2,10/12/2024 12:00:00 AM,51.6,7.6843,249,10/12/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,October Week 2,10/12/2024 12:00:00 AM,25.6,6.7666,249,10/12/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,Up-to-date,Yes,October Week 2,10/12/2024 12:00:00 AM,7.1,1.2452,4777,10/12/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,October Week 2,10/12/2024 12:00:00 AM,25.5,8.3475,187,10/12/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,October Week 2,10/12/2024 12:00:00 AM,20.5,5.9371,277,10/12/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,October Week 2,10/12/2024 12:00:00 AM,35,5.4386,468,10/12/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Received a vaccination,October Week 2,10/12/2024 12:00:00 AM,7.1,1.2452,4777,10/12/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,October Week 2,10/12/2024 12:00:00 AM,15.7,5.751,249,10/12/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,October Week 1,10/05/2024 12:00:00 AM,27.4,11.3169,67,10/05/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,October Week 1,10/05/2024 12:00:00 AM,22.9,9.1422,172,10/05/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,October Week 1,10/05/2024 12:00:00 AM,36.4,12.3604,67,10/05/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Received a vaccination,October Week 1,10/05/2024 12:00:00 AM,8.6,1.867,2721,10/05/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,October Week 1,10/05/2024 12:00:00 AM,18.1,14.9062,47,10/05/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,October Week 1,10/05/2024 12:00:00 AM,32.8,8.31,183,10/05/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,Up-to-date,Yes,October Week 1,10/05/2024 12:00:00 AM,11.2,1.4093,9267,10/05/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,October Week 1,10/05/2024 12:00:00 AM,41.2,19.1243,47,10/05/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Received a vaccination,October Week 1,10/05/2024 12:00:00 AM,13.7,1.996,9854,10/05/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,Up-to-date,Yes,October Week 1,10/05/2024 12:00:00 AM,13.7,1.996,9854,10/05/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,October Week 1,10/05/2024 12:00:00 AM,36,8.2779,183,10/05/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,October Week 1,10/05/2024 12:00:00 AM,34.8,10.503,172,10/05/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Received a vaccination,October Week 1,10/05/2024 12:00:00 AM,6.6,1.121,4777,10/05/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,October Week 1,10/05/2024 12:00:00 AM,17.5,6.5758,183,10/05/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,Up-to-date,Yes,October Week 1,10/05/2024 12:00:00 AM,6.6,1.121,4777,10/05/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,Up-to-date,Yes,October Week 1,10/05/2024 12:00:00 AM,8.6,1.867,2721,10/05/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,October Week 1,10/05/2024 12:00:00 AM,31.1,9.4825,172,10/05/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Received a vaccination,October Week 1,10/05/2024 12:00:00 AM,11.2,1.4093,9267,10/05/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,October Week 1,10/05/2024 12:00:00 AM,32,18.4911,47,10/05/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,October Week 1,10/05/2024 12:00:00 AM,29.6,11.266,67,10/05/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Received a vaccination,November Week 5,11/30/2024 12:00:00 AM,20.1,1.8716,9267,11/30/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,Up-to-date,Yes,November Week 5,11/30/2024 12:00:00 AM,20.1,1.8716,9267,11/30/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,November Week 5,11/30/2024 12:00:00 AM,30.3,11.617,149,11/30/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,November Week 5,11/30/2024 12:00:00 AM,9.1,6.2231,149,11/30/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,November Week 5,11/30/2024 12:00:00 AM,40.5,12.2104,149,11/30/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,Up-to-date,Yes,November Week 5,11/30/2024 12:00:00 AM,16.3,2.4866,2721,11/30/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Received a vaccination,November Week 5,11/30/2024 12:00:00 AM,,,2721,11/30/2024 12:00:00 AM,2024-2025,1
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,November Week 5,11/30/2024 12:00:00 AM,,,25,11/30/2024 12:00:00 AM,2024-2025,1
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,November Week 5,11/30/2024 12:00:00 AM,,,25,11/30/2024 12:00:00 AM,2024-2025,1
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,November Week 5,11/30/2024 12:00:00 AM,,,25,11/30/2024 12:00:00 AM,2024-2025,1
+COVID,State,Nevada,Overall,18+ years,Up-to-date,Yes,November Week 5,11/30/2024 12:00:00 AM,16.3,1.5199,4777,11/30/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Received a vaccination,November Week 5,11/30/2024 12:00:00 AM,16.3,1.5199,4777,11/30/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,November Week 5,11/30/2024 12:00:00 AM,26.7,12.2037,90,11/30/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,November Week 5,11/30/2024 12:00:00 AM,49,12.5667,90,11/30/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,Up-to-date,Yes,November Week 5,11/30/2024 12:00:00 AM,22.1,1.7166,9854,11/30/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Received a vaccination,November Week 5,11/30/2024 12:00:00 AM,22.1,1.7166,9854,11/30/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,November Week 5,11/30/2024 12:00:00 AM,27.9,6.1136,348,11/30/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,November Week 5,11/30/2024 12:00:00 AM,11.4,4.0778,348,11/30/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,November Week 5,11/30/2024 12:00:00 AM,38.6,6.6292,348,11/30/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,November Week 5,11/30/2024 12:00:00 AM,8.1,6.1129,90,11/30/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,November Week 4,11/23/2024 12:00:00 AM,34.5,9.6807,250,11/23/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,November Week 4,11/23/2024 12:00:00 AM,10.9,5.8025,250,11/23/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,November Week 4,11/23/2024 12:00:00 AM,34.5,9.3626,250,11/23/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,Up-to-date,Yes,November Week 4,11/23/2024 12:00:00 AM,16.3,2.4866,2721,11/23/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Received a vaccination,November Week 4,11/23/2024 12:00:00 AM,16.3,2.4866,2721,11/23/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,November Week 4,11/23/2024 12:00:00 AM,26.8,16.5011,40,11/23/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,November Week 4,11/23/2024 12:00:00 AM,10.1,14.7542,40,11/23/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Received a vaccination,November Week 4,11/23/2024 12:00:00 AM,20.1,1.8716,9267,11/23/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,Up-to-date,Yes,November Week 4,11/23/2024 12:00:00 AM,20.1,1.8716,9267,11/23/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,November Week 4,11/23/2024 12:00:00 AM,37.9,5.9442,460,11/23/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,November Week 4,11/23/2024 12:00:00 AM,10.5,3.7745,460,11/23/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,November Week 4,11/23/2024 12:00:00 AM,30.1,5.761,460,11/23/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Received a vaccination,November Week 4,11/23/2024 12:00:00 AM,21.4,1.4749,9854,11/23/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,Up-to-date,Yes,November Week 4,11/23/2024 12:00:00 AM,21.4,1.4749,9854,11/23/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,Up-to-date,Yes,November Week 4,11/23/2024 12:00:00 AM,16.3,1.5199,4777,11/23/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Received a vaccination,November Week 4,11/23/2024 12:00:00 AM,16.3,1.5199,4777,11/23/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,November Week 4,11/23/2024 12:00:00 AM,30.2,11.5221,91,11/23/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,November Week 4,11/23/2024 12:00:00 AM,12.8,8.6457,91,11/23/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,November Week 4,11/23/2024 12:00:00 AM,40.7,13.7998,91,11/23/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,November Week 4,11/23/2024 12:00:00 AM,46.8,19.0809,40,11/23/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,November Week 3,11/16/2024 12:00:00 AM,31.5,7.7435,275,11/16/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,Up-to-date,Yes,November Week 3,11/16/2024 12:00:00 AM,16.2,2.5342,2721,11/16/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Received a vaccination,November Week 3,11/16/2024 12:00:00 AM,16.2,2.5342,2721,11/16/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,November Week 3,11/16/2024 12:00:00 AM,41.8,12.1703,46,11/16/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,November Week 3,11/16/2024 12:00:00 AM,18,11.3401,46,11/16/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,November Week 3,11/16/2024 12:00:00 AM,24,12.0546,46,11/16/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,Up-to-date,Yes,November Week 3,11/16/2024 12:00:00 AM,16.3,1.5199,4777,11/16/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Received a vaccination,November Week 3,11/16/2024 12:00:00 AM,16.3,1.5199,4777,11/16/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,November Week 3,11/16/2024 12:00:00 AM,42.9,23.3302,49,11/16/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,November Week 3,11/16/2024 12:00:00 AM,18.7,16.6807,49,11/16/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,November Week 3,11/16/2024 12:00:00 AM,22.1,13.5316,49,11/16/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,Up-to-date,Yes,November Week 3,11/16/2024 12:00:00 AM,21.4,1.4749,9854,11/16/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Received a vaccination,November Week 3,11/16/2024 12:00:00 AM,21.4,1.4749,9854,11/16/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,November Week 3,11/16/2024 12:00:00 AM,32.1,6.6664,340,11/16/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,November Week 3,11/16/2024 12:00:00 AM,13.8,4.298,340,11/16/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,November Week 3,11/16/2024 12:00:00 AM,32.7,6.4053,340,11/16/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,Up-to-date,Yes,November Week 3,11/16/2024 12:00:00 AM,18.9,1.3793,9267,11/16/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Received a vaccination,November Week 3,11/16/2024 12:00:00 AM,18.9,1.3793,9267,11/16/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,November Week 3,11/16/2024 12:00:00 AM,30.9,8.3639,275,11/16/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,November Week 3,11/16/2024 12:00:00 AM,18.7,6.7784,275,11/16/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,November Week 2,11/09/2024 12:00:00 AM,20.1,17.1644,35,11/09/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,Up-to-date,Yes,November Week 2,11/09/2024 12:00:00 AM,18.8,1.382,9267,11/09/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Received a vaccination,November Week 2,11/09/2024 12:00:00 AM,18.8,1.382,9267,11/09/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,November Week 2,11/09/2024 12:00:00 AM,29.2,10.059,168,11/09/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,November Week 2,11/09/2024 12:00:00 AM,20.2,8.5272,168,11/09/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,November Week 2,11/09/2024 12:00:00 AM,31.9,8.8164,168,11/09/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,Up-to-date,Yes,November Week 2,11/09/2024 12:00:00 AM,15.9,2.5657,2721,11/09/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Received a vaccination,November Week 2,11/09/2024 12:00:00 AM,15.9,2.5657,2721,11/09/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,November Week 2,11/09/2024 12:00:00 AM,27.2,16.3298,42,11/09/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,November Week 2,11/09/2024 12:00:00 AM,7.5,11.404,42,11/09/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,November Week 2,11/09/2024 12:00:00 AM,49.4,20.9514,42,11/09/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,Up-to-date,Yes,November Week 2,11/09/2024 12:00:00 AM,16.3,1.5199,4777,11/09/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Received a vaccination,November Week 2,11/09/2024 12:00:00 AM,16.3,1.5199,4777,11/09/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,November Week 2,11/09/2024 12:00:00 AM,12.7,13.28,35,11/09/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,November Week 2,11/09/2024 12:00:00 AM,50.9,24.642,35,11/09/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,Up-to-date,Yes,November Week 2,11/09/2024 12:00:00 AM,21.4,1.4749,9854,11/09/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Received a vaccination,November Week 2,11/09/2024 12:00:00 AM,21.4,1.4749,9854,11/09/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,November Week 2,11/09/2024 12:00:00 AM,33,7.4494,279,11/09/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,November Week 2,11/09/2024 12:00:00 AM,12.2,4.7971,279,11/09/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,November Week 2,11/09/2024 12:00:00 AM,33.3,7.0566,279,11/09/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,Up-to-date,Yes,November Week 1,11/02/2024 12:00:00 AM,18.6,1.3938,9267,11/02/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,November Week 1,11/02/2024 12:00:00 AM,35.4,6.83,332,11/02/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,November Week 1,11/02/2024 12:00:00 AM,17.8,5.5215,332,11/02/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,November Week 1,11/02/2024 12:00:00 AM,27.1,6.0825,332,11/02/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Received a vaccination,November Week 1,11/02/2024 12:00:00 AM,19.7,1.4881,9854,11/02/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,Up-to-date,Yes,November Week 1,11/02/2024 12:00:00 AM,19.7,1.4881,9854,11/02/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,November Week 1,11/02/2024 12:00:00 AM,25.1,11.0249,30,11/02/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,November Week 1,11/02/2024 12:00:00 AM,12.6,10.1691,30,11/02/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,November Week 1,11/02/2024 12:00:00 AM,49.2,10.6148,30,11/02/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Received a vaccination,November Week 1,11/02/2024 12:00:00 AM,13.2,1.3353,4777,11/02/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,Up-to-date,Yes,November Week 1,11/02/2024 12:00:00 AM,13.2,1.3353,4777,11/02/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,November Week 1,11/02/2024 12:00:00 AM,41.3,26.445,55,11/02/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,November Week 1,11/02/2024 12:00:00 AM,13,12.2686,55,11/02/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,November Week 1,11/02/2024 12:00:00 AM,31.2,22.3908,55,11/02/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Received a vaccination,November Week 1,11/02/2024 12:00:00 AM,14.5,1.8566,2721,11/02/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,Up-to-date,Yes,November Week 1,11/02/2024 12:00:00 AM,14.5,1.8566,2721,11/02/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,November Week 1,11/02/2024 12:00:00 AM,37.7,9.8245,183,11/02/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,November Week 1,11/02/2024 12:00:00 AM,17.1,7.6161,183,11/02/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,November Week 1,11/02/2024 12:00:00 AM,26.6,8.7704,183,11/02/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Received a vaccination,November Week 1,11/02/2024 12:00:00 AM,18.6,1.3938,9267,11/02/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,Up-to-date,Yes,March Week 5,03/29/2025 12:00:00 AM,26.9,1.8141,9267,03/29/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,March Week 5,03/29/2025 12:00:00 AM,7.7,3.8455,214,03/29/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,March Week 5,03/29/2025 12:00:00 AM,27.4,7.9004,214,03/29/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,March Week 5,03/29/2025 12:00:00 AM,8.8,10.1788,67,03/29/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Received a vaccination,March Week 5,03/29/2025 12:00:00 AM,21.4,2.4905,2721,03/29/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,Up-to-date,Yes,March Week 5,03/29/2025 12:00:00 AM,21.4,2.4905,2721,03/29/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,March Week 5,03/29/2025 12:00:00 AM,2.9,1.7661,117,03/29/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Received a vaccination,March Week 5,03/29/2025 12:00:00 AM,18.8,1.6921,4777,03/29/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,March Week 5,03/29/2025 12:00:00 AM,23,10.5532,75,03/29/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,March Week 5,03/29/2025 12:00:00 AM,18.1,12.8012,67,03/29/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,March Week 5,03/29/2025 12:00:00 AM,51.7,16.6153,67,03/29/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,March Week 5,03/29/2025 12:00:00 AM,28.9,11.5547,117,03/29/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,March Week 5,03/29/2025 12:00:00 AM,41.2,11.7731,117,03/29/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,Up-to-date,Yes,March Week 5,03/29/2025 12:00:00 AM,18.8,1.6921,4777,03/29/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Received a vaccination,March Week 5,03/29/2025 12:00:00 AM,29.1,1.7055,9854,03/29/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,Up-to-date,Yes,March Week 5,03/29/2025 12:00:00 AM,29.1,1.7055,9854,03/29/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,March Week 5,03/29/2025 12:00:00 AM,35.9,8.5716,214,03/29/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,March Week 5,03/29/2025 12:00:00 AM,2.9,4.1128,75,03/29/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,March Week 5,03/29/2025 12:00:00 AM,55.4,11.6915,75,03/29/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Received a vaccination,March Week 5,03/29/2025 12:00:00 AM,26.9,1.8141,9267,03/29/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,March Week 4,03/22/2025 12:00:00 AM,8.7,3.395,402,03/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,March Week 4,03/22/2025 12:00:00 AM,45,13.4873,38,03/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,March Week 4,03/22/2025 12:00:00 AM,26.5,12.3998,38,03/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,March Week 4,03/22/2025 12:00:00 AM,48.2,11.1801,120,03/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,Up-to-date,Yes,March Week 4,03/22/2025 12:00:00 AM,21.4,2.4905,2721,03/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,March Week 4,03/22/2025 12:00:00 AM,28.6,11.6436,130,03/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Received a vaccination,March Week 4,03/22/2025 12:00:00 AM,26.9,1.8141,9267,03/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,Up-to-date,Yes,March Week 4,03/22/2025 12:00:00 AM,26.9,1.8141,9267,03/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,Up-to-date,Yes,March Week 4,03/22/2025 12:00:00 AM,29.1,1.7055,9854,03/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Received a vaccination,March Week 4,03/22/2025 12:00:00 AM,18.8,1.6921,4777,03/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,March Week 4,03/22/2025 12:00:00 AM,22.2,10.4341,120,03/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Received a vaccination,March Week 4,03/22/2025 12:00:00 AM,21.4,2.4905,2721,03/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,March Week 4,03/22/2025 12:00:00 AM,4.5,4.3528,130,03/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,March Week 4,03/22/2025 12:00:00 AM,8.2,6.1958,120,03/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,March Week 4,03/22/2025 12:00:00 AM,39.9,14.0402,130,03/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,March Week 4,03/22/2025 12:00:00 AM,9.7,7.3137,38,03/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,Up-to-date,Yes,March Week 4,03/22/2025 12:00:00 AM,18.8,1.6921,4777,03/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,March Week 4,03/22/2025 12:00:00 AM,33.9,5.6209,402,03/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,March Week 4,03/22/2025 12:00:00 AM,28.3,5.4324,402,03/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Received a vaccination,March Week 4,03/22/2025 12:00:00 AM,29.1,1.7055,9854,03/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,Up-to-date,Yes,March Week 3,03/15/2025 12:00:00 AM,18.8,1.6921,4777,03/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Received a vaccination,March Week 3,03/15/2025 12:00:00 AM,21.4,2.4904,2721,03/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,March Week 3,03/15/2025 12:00:00 AM,25.3,10.6382,97,03/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,Up-to-date,Yes,March Week 3,03/15/2025 12:00:00 AM,29,1.7023,9854,03/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Received a vaccination,March Week 3,03/15/2025 12:00:00 AM,29,1.7023,9854,03/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,March Week 3,03/15/2025 12:00:00 AM,7.7,3.3865,309,03/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,March Week 3,03/15/2025 12:00:00 AM,29.1,6.711,309,03/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,March Week 3,03/15/2025 12:00:00 AM,34.3,6.8875,309,03/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,March Week 3,03/15/2025 12:00:00 AM,44.9,7.1908,240,03/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,March Week 3,03/15/2025 12:00:00 AM,8.6,4.4008,240,03/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,March Week 3,03/15/2025 12:00:00 AM,38.6,10.2176,214,03/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,March Week 3,03/15/2025 12:00:00 AM,28.6,9.3086,214,03/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,March Week 3,03/15/2025 12:00:00 AM,5.9,4.3206,214,03/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Received a vaccination,March Week 3,03/15/2025 12:00:00 AM,26.9,1.8141,9267,03/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,Up-to-date,Yes,March Week 3,03/15/2025 12:00:00 AM,26.9,1.8141,9267,03/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,March Week 3,03/15/2025 12:00:00 AM,27.7,6.6776,240,03/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Received a vaccination,March Week 3,03/15/2025 12:00:00 AM,18.8,1.6921,4777,03/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,Up-to-date,Yes,March Week 3,03/15/2025 12:00:00 AM,21.4,2.4904,2721,03/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,March Week 3,03/15/2025 12:00:00 AM,8.7,7.2762,97,03/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,March Week 3,03/15/2025 12:00:00 AM,44.6,12.3777,97,03/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Received a vaccination,March Week 2,03/08/2025 12:00:00 AM,29,1.7023,9854,03/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,Up-to-date,Yes,March Week 2,03/08/2025 12:00:00 AM,29,1.7023,9854,03/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Received a vaccination,March Week 2,03/08/2025 12:00:00 AM,26.9,1.8141,9267,03/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,March Week 2,03/08/2025 12:00:00 AM,33.9,6.2656,437,03/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,Up-to-date,Yes,March Week 2,03/08/2025 12:00:00 AM,21.4,2.4904,2721,03/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Received a vaccination,March Week 2,03/08/2025 12:00:00 AM,21.4,2.4904,2721,03/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,March Week 2,03/08/2025 12:00:00 AM,28.8,6.2202,437,03/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,March Week 2,03/08/2025 12:00:00 AM,10.4,3.8786,437,03/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,March Week 2,03/08/2025 12:00:00 AM,21.7,10.2123,128,03/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,March Week 2,03/08/2025 12:00:00 AM,22.5,7.5858,147,03/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,March Week 2,03/08/2025 12:00:00 AM,13.7,7.7212,147,03/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,March Week 2,03/08/2025 12:00:00 AM,48.7,6.3509,334,03/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,March Week 2,03/08/2025 12:00:00 AM,48.9,11.6119,128,03/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,March Week 2,03/08/2025 12:00:00 AM,8.1,4.7124,128,03/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,Up-to-date,Yes,March Week 2,03/08/2025 12:00:00 AM,26.9,1.8141,9267,03/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,March Week 2,03/08/2025 12:00:00 AM,34.9,9.6371,147,03/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,March Week 2,03/08/2025 12:00:00 AM,10.6,3.8584,334,03/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Received a vaccination,March Week 2,03/08/2025 12:00:00 AM,18.8,1.6921,4777,03/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,March Week 2,03/08/2025 12:00:00 AM,21.9,5.2081,334,03/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,Up-to-date,Yes,March Week 2,03/08/2025 12:00:00 AM,18.8,1.6921,4777,03/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,March Week 1,03/01/2025 12:00:00 AM,7.4,3.1892,329,03/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Received a vaccination,March Week 1,03/01/2025 12:00:00 AM,18.8,1.6921,4777,03/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,March Week 1,03/01/2025 12:00:00 AM,45.4,9.9663,183,03/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,March Week 1,03/01/2025 12:00:00 AM,26.3,8.7852,183,03/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,March Week 1,03/01/2025 12:00:00 AM,29.2,7.4331,295,03/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,Up-to-date,Yes,March Week 1,03/01/2025 12:00:00 AM,26.7,1.7858,9267,03/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,March Week 1,03/01/2025 12:00:00 AM,6.9,3.8362,183,03/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,March Week 1,03/01/2025 12:00:00 AM,49.6,6.3202,329,03/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,March Week 1,03/01/2025 12:00:00 AM,10.8,3.7539,367,03/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,March Week 1,03/01/2025 12:00:00 AM,23.3,5.0177,367,03/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,March Week 1,03/01/2025 12:00:00 AM,37.2,5.8052,367,03/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Received a vaccination,March Week 1,03/01/2025 12:00:00 AM,26.7,1.7858,9267,03/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,March Week 1,03/01/2025 12:00:00 AM,31.9,8.4357,295,03/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Received a vaccination,March Week 1,03/01/2025 12:00:00 AM,21.4,2.4904,2721,03/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Received a vaccination,March Week 1,03/01/2025 12:00:00 AM,28.7,1.6791,9854,03/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,Up-to-date,Yes,March Week 1,03/01/2025 12:00:00 AM,18.8,1.6921,4777,03/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,March Week 1,03/01/2025 12:00:00 AM,24.3,5.4774,329,03/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,Up-to-date,Yes,March Week 1,03/01/2025 12:00:00 AM,21.4,2.4904,2721,03/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,March Week 1,03/01/2025 12:00:00 AM,12.1,5.5278,295,03/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,Up-to-date,Yes,March Week 1,03/01/2025 12:00:00 AM,28.7,1.6791,9854,03/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,Up-to-date,Yes,January Week 4,01/25/2025 12:00:00 AM,19.9,2.4902,2721,01/25/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,January Week 4,01/25/2025 12:00:00 AM,28.3,10.9241,125,01/25/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,January Week 4,01/25/2025 12:00:00 AM,11.6,8.3957,125,01/25/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Received a vaccination,January Week 4,01/25/2025 12:00:00 AM,24.6,1.6263,9267,01/25/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,Up-to-date,Yes,January Week 4,01/25/2025 12:00:00 AM,24.6,1.6263,9267,01/25/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Received a vaccination,January Week 4,01/25/2025 12:00:00 AM,26.3,1.5298,9854,01/25/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,Up-to-date,Yes,January Week 4,01/25/2025 12:00:00 AM,17.4,1.5979,4777,01/25/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,January Week 4,01/25/2025 12:00:00 AM,20.1,15.7177,49,01/25/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,January Week 4,01/25/2025 12:00:00 AM,6.2,3.3427,175,01/25/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,January Week 4,01/25/2025 12:00:00 AM,29.3,7.7449,175,01/25/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,January Week 4,01/25/2025 12:00:00 AM,32.4,15.7914,49,01/25/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,January Week 4,01/25/2025 12:00:00 AM,27.6,15.6642,49,01/25/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Received a vaccination,January Week 4,01/25/2025 12:00:00 AM,19.9,2.4902,2721,01/25/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,January Week 4,01/25/2025 12:00:00 AM,35.5,11.7528,125,01/25/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,January Week 4,01/25/2025 12:00:00 AM,18.6,11.0234,31,01/25/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,January Week 4,01/25/2025 12:00:00 AM,38.3,8.2692,175,01/25/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,Up-to-date,Yes,January Week 4,01/25/2025 12:00:00 AM,26.3,1.5298,9854,01/25/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Received a vaccination,January Week 4,01/25/2025 12:00:00 AM,17.4,1.5979,4777,01/25/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,January Week 4,01/25/2025 12:00:00 AM,2.4,4.6767,31,01/25/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,January Week 4,01/25/2025 12:00:00 AM,61.6,15.6671,31,01/25/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,January Week 3,01/18/2025 12:00:00 AM,32.9,6.6548,307,01/18/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,January Week 3,01/18/2025 12:00:00 AM,39.5,7.3562,292,01/18/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,January Week 3,01/18/2025 12:00:00 AM,24.7,7.5768,176,01/18/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,Up-to-date,Yes,January Week 3,01/18/2025 12:00:00 AM,17.4,1.5979,4777,01/18/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,January Week 3,01/18/2025 12:00:00 AM,15.9,9.3175,119,01/18/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Received a vaccination,January Week 3,01/18/2025 12:00:00 AM,19.9,2.4902,2721,01/18/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,January Week 3,01/18/2025 12:00:00 AM,13.8,5.7541,176,01/18/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,January Week 3,01/18/2025 12:00:00 AM,23.2,6.4372,292,01/18/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Received a vaccination,January Week 3,01/18/2025 12:00:00 AM,17.4,1.5979,4777,01/18/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,January Week 3,01/18/2025 12:00:00 AM,10.9,4.575,307,01/18/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,January Week 3,01/18/2025 12:00:00 AM,31.6,7.1943,307,01/18/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,Up-to-date,Yes,January Week 3,01/18/2025 12:00:00 AM,24.6,1.6263,9267,01/18/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,January Week 3,01/18/2025 12:00:00 AM,11,4.5383,292,01/18/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Received a vaccination,January Week 3,01/18/2025 12:00:00 AM,26.3,1.5298,9854,01/18/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,Up-to-date,Yes,January Week 3,01/18/2025 12:00:00 AM,26.3,1.5298,9854,01/18/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Received a vaccination,January Week 3,01/18/2025 12:00:00 AM,24.6,1.6263,9267,01/18/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,January Week 3,01/18/2025 12:00:00 AM,44.1,8.4217,176,01/18/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,January Week 3,01/18/2025 12:00:00 AM,55.5,12.3473,119,01/18/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,January Week 3,01/18/2025 12:00:00 AM,8.7,6.8786,119,01/18/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,Up-to-date,Yes,January Week 3,01/18/2025 12:00:00 AM,19.9,2.4902,2721,01/18/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,January Week 2,01/11/2025 12:00:00 AM,16.7,7.5478,107,01/11/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,January Week 2,01/11/2025 12:00:00 AM,31,9.8801,161,01/11/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,January Week 2,01/11/2025 12:00:00 AM,17.6,8.2698,107,01/11/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Received a vaccination,January Week 2,01/11/2025 12:00:00 AM,17.4,1.5979,4777,01/11/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,Up-to-date,Yes,January Week 2,01/11/2025 12:00:00 AM,17.4,1.5979,4777,01/11/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Received a vaccination,January Week 2,01/11/2025 12:00:00 AM,19.9,2.4902,2721,01/11/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,Up-to-date,Yes,January Week 2,01/11/2025 12:00:00 AM,19.9,2.4902,2721,01/11/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Received a vaccination,January Week 2,01/11/2025 12:00:00 AM,24.4,1.5808,9267,01/11/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,Up-to-date,Yes,January Week 2,01/11/2025 12:00:00 AM,24.4,1.5808,9267,01/11/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Received a vaccination,January Week 2,01/11/2025 12:00:00 AM,26.2,1.5306,9854,01/11/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,January Week 2,01/11/2025 12:00:00 AM,42.3,13.1772,98,01/11/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,January Week 2,01/11/2025 12:00:00 AM,15.2,9.5421,98,01/11/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,January Week 2,01/11/2025 12:00:00 AM,22.6,10.8104,98,01/11/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,January Week 2,01/11/2025 12:00:00 AM,39.6,7.0838,308,01/11/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,January Week 2,01/11/2025 12:00:00 AM,14,5.6276,308,01/11/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,January Week 2,01/11/2025 12:00:00 AM,48.3,11.3993,107,01/11/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,Up-to-date,Yes,January Week 2,01/11/2025 12:00:00 AM,26.2,1.5306,9854,01/11/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,January Week 2,01/11/2025 12:00:00 AM,22,5.8035,308,01/11/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,January Week 2,01/11/2025 12:00:00 AM,31.6,9.6411,161,01/11/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,January Week 2,01/11/2025 12:00:00 AM,11.1,6.2969,161,01/11/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,January Week 1,01/04/2025 12:00:00 AM,33,26.4761,34,01/04/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,Up-to-date,Yes,January Week 1,01/04/2025 12:00:00 AM,24.3,1.5634,9267,01/04/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Received a vaccination,January Week 1,01/04/2025 12:00:00 AM,24.3,1.5634,9267,01/04/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,January Week 1,01/04/2025 12:00:00 AM,38.7,5.9295,365,01/04/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,Up-to-date,Yes,January Week 1,01/04/2025 12:00:00 AM,19.9,2.4902,2721,01/04/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,January Week 1,01/04/2025 12:00:00 AM,13.7,10.3015,34,01/04/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,January Week 1,01/04/2025 12:00:00 AM,44.1,15.5296,36,01/04/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,January Week 1,01/04/2025 12:00:00 AM,5.4,7.5192,36,01/04/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,Up-to-date,Yes,January Week 1,01/04/2025 12:00:00 AM,26.1,1.5092,9854,01/04/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,January Week 1,01/04/2025 12:00:00 AM,28.1,12.1868,124,01/04/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,January Week 1,01/04/2025 12:00:00 AM,11.5,8.2125,124,01/04/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,January Week 1,01/04/2025 12:00:00 AM,34.4,12.8396,124,01/04/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,January Week 1,01/04/2025 12:00:00 AM,33.5,26.589,34,01/04/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,January Week 1,01/04/2025 12:00:00 AM,27.1,5.2113,365,01/04/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,January Week 1,01/04/2025 12:00:00 AM,9.9,3.5661,365,01/04/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,January Week 1,01/04/2025 12:00:00 AM,33,14.9669,36,01/04/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Received a vaccination,January Week 1,01/04/2025 12:00:00 AM,19.9,2.4902,2721,01/04/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Received a vaccination,January Week 1,01/04/2025 12:00:00 AM,26.1,1.5092,9854,01/04/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,Up-to-date,Yes,January Week 1,01/04/2025 12:00:00 AM,17.4,1.5979,4777,01/04/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Received a vaccination,January Week 1,01/04/2025 12:00:00 AM,17.4,1.5979,4777,01/04/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,February Week 4,02/22/2025 12:00:00 AM,47.7,7.0662,259,02/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,Up-to-date,Yes,February Week 4,02/22/2025 12:00:00 AM,27.4,1.589,9854,02/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Received a vaccination,February Week 4,02/22/2025 12:00:00 AM,27.4,1.589,9854,02/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,February Week 4,02/22/2025 12:00:00 AM,35.2,6.1736,367,02/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,February Week 4,02/22/2025 12:00:00 AM,14.2,6.941,239,02/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,Up-to-date,Yes,February Week 4,02/22/2025 12:00:00 AM,25.9,1.7134,9267,02/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Received a vaccination,February Week 4,02/22/2025 12:00:00 AM,20.8,2.4021,2721,02/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,February Week 4,02/22/2025 12:00:00 AM,25.8,6.2289,259,02/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,February Week 4,02/22/2025 12:00:00 AM,50,10.9411,127,02/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,February Week 4,02/22/2025 12:00:00 AM,6.7,5.6388,127,02/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,February Week 4,02/22/2025 12:00:00 AM,20.9,7.4895,239,02/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,Up-to-date,Yes,February Week 4,02/22/2025 12:00:00 AM,20.8,2.4021,2721,02/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Received a vaccination,February Week 4,02/22/2025 12:00:00 AM,18.8,1.6921,4777,02/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Received a vaccination,February Week 4,02/22/2025 12:00:00 AM,25.9,1.7134,9267,02/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,Up-to-date,Yes,February Week 4,02/22/2025 12:00:00 AM,18.8,1.6921,4777,02/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,February Week 4,02/22/2025 12:00:00 AM,22.6,9.4925,127,02/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,February Week 4,02/22/2025 12:00:00 AM,7.8,3.505,259,02/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,February Week 4,02/22/2025 12:00:00 AM,39,9.1327,239,02/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,February Week 4,02/22/2025 12:00:00 AM,9.7,3.4899,367,02/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,February Week 4,02/22/2025 12:00:00 AM,27.7,5.7905,367,02/22/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,Up-to-date,Yes,February Week 3,02/15/2025 12:00:00 AM,20.8,2.4021,2721,02/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,February Week 3,02/15/2025 12:00:00 AM,21.9,10.5383,72,02/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Received a vaccination,February Week 3,02/15/2025 12:00:00 AM,18.6,1.834,4777,02/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,February Week 3,02/15/2025 12:00:00 AM,55.9,10.5536,100,02/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,February Week 3,02/15/2025 12:00:00 AM,3.4,4.3636,100,02/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,February Week 3,02/15/2025 12:00:00 AM,13.4,6.8171,219,02/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,February Week 3,02/15/2025 12:00:00 AM,30.9,9.3268,219,02/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,Up-to-date,Yes,February Week 3,02/15/2025 12:00:00 AM,25.9,1.7134,9267,02/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,February Week 3,02/15/2025 12:00:00 AM,36.1,10.0062,162,02/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,February Week 3,02/15/2025 12:00:00 AM,9.6,7.3098,72,02/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,February Week 3,02/15/2025 12:00:00 AM,19.9,8.3509,100,02/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Received a vaccination,February Week 3,02/15/2025 12:00:00 AM,20.8,2.4021,2721,02/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,February Week 3,02/15/2025 12:00:00 AM,29.9,8.7466,219,02/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,February Week 3,02/15/2025 12:00:00 AM,26.2,7.6884,162,02/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,February Week 3,02/15/2025 12:00:00 AM,10.2,5.9799,162,02/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Received a vaccination,February Week 3,02/15/2025 12:00:00 AM,25.9,1.7134,9267,02/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Received a vaccination,February Week 3,02/15/2025 12:00:00 AM,27.4,1.589,9854,02/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,Up-to-date,Yes,February Week 3,02/15/2025 12:00:00 AM,27.4,1.589,9854,02/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,February Week 3,02/15/2025 12:00:00 AM,49.9,12.7787,72,02/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,Up-to-date,Yes,February Week 3,02/15/2025 12:00:00 AM,18.6,1.834,4777,02/15/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,February Week 2,02/08/2025 12:00:00 AM,51.1,8.5112,156,02/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Received a vaccination,February Week 2,02/08/2025 12:00:00 AM,18.4,1.8586,4777,02/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,February Week 2,02/08/2025 12:00:00 AM,29.7,10.0533,131,02/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,February Week 2,02/08/2025 12:00:00 AM,45.3,10.7991,131,02/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,Up-to-date,Yes,February Week 2,02/08/2025 12:00:00 AM,27.4,1.589,9854,02/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,February Week 2,02/08/2025 12:00:00 AM,27.7,9.2141,160,02/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Received a vaccination,February Week 2,02/08/2025 12:00:00 AM,27.4,1.589,9854,02/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,February Week 2,02/08/2025 12:00:00 AM,7,4.7822,160,02/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,February Week 2,02/08/2025 12:00:00 AM,37.9,9.9325,160,02/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,Up-to-date,Yes,February Week 2,02/08/2025 12:00:00 AM,25.9,1.745,9267,02/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Received a vaccination,February Week 2,02/08/2025 12:00:00 AM,25.9,1.745,9267,02/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,Up-to-date,Yes,February Week 2,02/08/2025 12:00:00 AM,18.4,1.8586,4777,02/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,February Week 2,02/08/2025 12:00:00 AM,6.6,5.7759,131,02/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,February Week 2,02/08/2025 12:00:00 AM,32.4,9.0828,197,02/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,February Week 2,02/08/2025 12:00:00 AM,7.8,4.8205,197,02/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,Up-to-date,Yes,February Week 2,02/08/2025 12:00:00 AM,20.8,2.4021,2721,02/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Received a vaccination,February Week 2,02/08/2025 12:00:00 AM,20.8,2.4021,2721,02/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,February Week 2,02/08/2025 12:00:00 AM,18.1,6.8405,156,02/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,February Week 2,02/08/2025 12:00:00 AM,33.9,8.9262,197,02/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,February Week 2,02/08/2025 12:00:00 AM,10.1,5.0651,156,02/08/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,February Week 1,02/01/2025 12:00:00 AM,7.3,4.6105,191,02/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Received a vaccination,February Week 1,02/01/2025 12:00:00 AM,18.4,1.8586,4777,02/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,Up-to-date,Yes,February Week 1,02/01/2025 12:00:00 AM,18.4,1.8586,4777,02/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,February Week 1,02/01/2025 12:00:00 AM,25.8,19.18,47,02/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,February Week 1,02/01/2025 12:00:00 AM,7.8,14.5797,47,02/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,February Week 1,02/01/2025 12:00:00 AM,48,17.3924,47,02/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Received a vaccination,February Week 1,02/01/2025 12:00:00 AM,27.4,1.5863,9854,02/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,February Week 1,02/01/2025 12:00:00 AM,29.3,9.1012,191,02/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,February Week 1,02/01/2025 12:00:00 AM,28.3,7.5755,223,02/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,February Week 1,02/01/2025 12:00:00 AM,36,9.3238,191,02/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,February Week 1,02/01/2025 12:00:00 AM,36.5,10.4303,106,02/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Received a vaccination,February Week 1,02/01/2025 12:00:00 AM,25.5,1.6484,9267,02/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,February Week 1,02/01/2025 12:00:00 AM,10.6,4.4648,223,02/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,February Week 1,02/01/2025 12:00:00 AM,35.6,8.3165,223,02/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Received a vaccination,February Week 1,02/01/2025 12:00:00 AM,20.8,2.4021,2721,02/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,Up-to-date,Yes,February Week 1,02/01/2025 12:00:00 AM,27.4,1.5863,9854,02/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,Up-to-date,Yes,February Week 1,02/01/2025 12:00:00 AM,25.5,1.6484,9267,02/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,Up-to-date,Yes,February Week 1,02/01/2025 12:00:00 AM,20.8,2.4021,2721,02/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,February Week 1,02/01/2025 12:00:00 AM,33.1,9.9533,106,02/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,February Week 1,02/01/2025 12:00:00 AM,9.6,6.7871,106,02/01/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,December Week 4,12/28/2024 12:00:00 AM,34.1,7.2671,320,12/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,December Week 4,12/28/2024 12:00:00 AM,10,3.8977,320,12/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,December Week 4,12/28/2024 12:00:00 AM,29.9,27.247,35,12/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,Up-to-date,Yes,December Week 4,12/28/2024 12:00:00 AM,24.3,1.5634,9267,12/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Received a vaccination,December Week 4,12/28/2024 12:00:00 AM,16.6,1.5827,4777,12/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,December Week 4,12/28/2024 12:00:00 AM,33.3,9.1183,206,12/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,Up-to-date,Yes,December Week 4,12/28/2024 12:00:00 AM,16.6,1.5827,4777,12/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Received a vaccination,December Week 4,12/28/2024 12:00:00 AM,17.5,2.0832,2721,12/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,December Week 4,12/28/2024 12:00:00 AM,25.6,13.1691,44,12/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,December Week 4,12/28/2024 12:00:00 AM,47.4,15.1917,44,12/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,December Week 4,12/28/2024 12:00:00 AM,8.9,4.9665,206,12/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,December Week 4,12/28/2024 12:00:00 AM,34.5,27.2491,35,12/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,Up-to-date,Yes,December Week 4,12/28/2024 12:00:00 AM,23.9,1.4326,9854,12/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,December Week 4,12/28/2024 12:00:00 AM,18.1,23.3003,35,12/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,Up-to-date,Yes,December Week 4,12/28/2024 12:00:00 AM,17.5,2.0832,2721,12/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,December Week 4,12/28/2024 12:00:00 AM,33.5,8.9183,206,12/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Received a vaccination,December Week 4,12/28/2024 12:00:00 AM,23.9,1.4326,9854,12/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,December Week 4,12/28/2024 12:00:00 AM,32.1,7.7286,320,12/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,December Week 4,12/28/2024 12:00:00 AM,10.3,9.5311,44,12/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Received a vaccination,December Week 4,12/28/2024 12:00:00 AM,24.3,1.5634,9267,12/28/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,December Week 3,12/21/2024 12:00:00 AM,32.8,7.0929,309,12/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,Up-to-date,Yes,December Week 3,12/21/2024 12:00:00 AM,16.6,1.5827,4777,12/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Received a vaccination,December Week 3,12/21/2024 12:00:00 AM,16.6,1.5827,4777,12/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,December Week 3,12/21/2024 12:00:00 AM,29.4,5.5689,389,12/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,December Week 3,12/21/2024 12:00:00 AM,7.6,2.9995,389,12/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,December Week 3,12/21/2024 12:00:00 AM,46.4,5.9859,389,12/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Received a vaccination,December Week 3,12/21/2024 12:00:00 AM,23.9,1.4326,9854,12/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,Up-to-date,Yes,December Week 3,12/21/2024 12:00:00 AM,23.9,1.4326,9854,12/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,December Week 3,12/21/2024 12:00:00 AM,59.4,26.4029,44,12/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,December Week 3,12/21/2024 12:00:00 AM,6.4,8.7623,44,12/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,December Week 3,12/21/2024 12:00:00 AM,16.7,12.837,44,12/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Received a vaccination,December Week 3,12/21/2024 12:00:00 AM,17.5,2.0832,2721,12/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,Up-to-date,Yes,December Week 3,12/21/2024 12:00:00 AM,17.5,2.0832,2721,12/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,December Week 3,12/21/2024 12:00:00 AM,38.7,7.6028,353,12/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,December Week 3,12/21/2024 12:00:00 AM,11.9,4.5082,353,12/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,December Week 3,12/21/2024 12:00:00 AM,25.1,6.3624,353,12/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Received a vaccination,December Week 3,12/21/2024 12:00:00 AM,24.3,1.5634,9267,12/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,Up-to-date,Yes,December Week 3,12/21/2024 12:00:00 AM,24.3,1.5634,9267,12/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,December Week 3,12/21/2024 12:00:00 AM,11.8,4.2532,309,12/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,December Week 3,12/21/2024 12:00:00 AM,31.6,7.05,309,12/21/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,Up-to-date,Yes,December Week 2,12/14/2024 12:00:00 AM,16.6,1.5906,4777,12/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Received a vaccination,December Week 2,12/14/2024 12:00:00 AM,16.6,1.5906,4777,12/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,December Week 2,12/14/2024 12:00:00 AM,22.5,15.3341,73,12/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,December Week 2,12/14/2024 12:00:00 AM,17.4,14.2486,73,12/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,December Week 2,12/14/2024 12:00:00 AM,43.5,18.1902,73,12/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,December Week 2,12/14/2024 12:00:00 AM,38.5,8.0461,255,12/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,Up-to-date,Yes,December Week 2,12/14/2024 12:00:00 AM,23.2,1.6552,9267,12/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Received a vaccination,December Week 2,12/14/2024 12:00:00 AM,23.2,1.6552,9267,12/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,December Week 2,12/14/2024 12:00:00 AM,27.9,8.0385,243,12/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,December Week 2,12/14/2024 12:00:00 AM,16.8,7.007,243,12/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,December Week 2,12/14/2024 12:00:00 AM,32.1,8.9772,243,12/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,Up-to-date,Yes,December Week 2,12/14/2024 12:00:00 AM,17.5,2.0832,2721,12/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Received a vaccination,December Week 2,12/14/2024 12:00:00 AM,17.5,2.0832,2721,12/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,December Week 2,12/14/2024 12:00:00 AM,21.9,12.8624,63,12/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,December Week 2,12/14/2024 12:00:00 AM,8.1,8.1963,63,12/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,December Week 2,12/14/2024 12:00:00 AM,52.5,12.2637,63,12/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,Up-to-date,Yes,December Week 2,12/14/2024 12:00:00 AM,23.8,1.4356,9854,12/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Received a vaccination,December Week 2,12/14/2024 12:00:00 AM,23.8,1.4356,9854,12/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,December Week 2,12/14/2024 12:00:00 AM,28,7.2661,255,12/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,December Week 2,12/14/2024 12:00:00 AM,9.7,4.5759,255,12/14/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,December Week 1,12/07/2024 12:00:00 AM,34.7,13.4331,83,12/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,Up-to-date,Yes,December Week 1,12/07/2024 12:00:00 AM,16.3,1.5199,4777,12/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Received a vaccination,December Week 1,12/07/2024 12:00:00 AM,16.3,1.5199,4777,12/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,December Week 1,12/07/2024 12:00:00 AM,38.5,13.684,83,12/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,December Week 1,12/07/2024 12:00:00 AM,10.5,7.4691,83,12/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,December Week 1,12/07/2024 12:00:00 AM,45.2,13.6775,58,12/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,December Week 1,12/07/2024 12:00:00 AM,6.5,5.7957,58,12/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,December Week 1,12/07/2024 12:00:00 AM,30.9,13.818,58,12/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Received a vaccination,December Week 1,12/07/2024 12:00:00 AM,17.4,2.0818,2721,12/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,Up-to-date,Yes,December Week 1,12/07/2024 12:00:00 AM,17.4,2.0818,2721,12/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,December Week 1,12/07/2024 12:00:00 AM,35.1,8.3206,285,12/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,December Week 1,12/07/2024 12:00:00 AM,8.1,4.5231,285,12/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,December Week 1,12/07/2024 12:00:00 AM,33.8,7.9842,285,12/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Received a vaccination,December Week 1,12/07/2024 12:00:00 AM,23.1,1.6762,9267,12/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,Up-to-date,Yes,December Week 1,12/07/2024 12:00:00 AM,23.1,1.6762,9267,12/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,December Week 1,12/07/2024 12:00:00 AM,41.7,8.4789,209,12/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,December Week 1,12/07/2024 12:00:00 AM,9,5.279,209,12/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,December Week 1,12/07/2024 12:00:00 AM,25.6,7.159,209,12/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Received a vaccination,December Week 1,12/07/2024 12:00:00 AM,23.6,1.4101,9854,12/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,Up-to-date,Yes,December Week 1,12/07/2024 12:00:00 AM,23.6,1.4101,9854,12/07/2024 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,April Week 4,04/26/2025 12:00:00 AM,38.4,18.9227,44,04/26/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,April Week 4,04/26/2025 12:00:00 AM,12.2,5.9547,185,04/26/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,April Week 4,04/26/2025 12:00:00 AM,25.7,5.6223,300,04/26/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,April Week 4,04/26/2025 12:00:00 AM,8.5,3.8264,300,04/26/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,April Week 4,04/26/2025 12:00:00 AM,19.5,7.4087,185,04/26/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,April Week 4,04/26/2025 12:00:00 AM,38.5,9.3287,185,04/26/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Received a vaccination,April Week 4,04/26/2025 12:00:00 AM,29.8,1.8935,9854,04/26/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,Up-to-date,Yes,April Week 4,04/26/2025 12:00:00 AM,21.4,2.4905,2721,04/26/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Received a vaccination,April Week 4,04/26/2025 12:00:00 AM,19.4,2.0795,4777,04/26/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,Up-to-date,Yes,April Week 4,04/26/2025 12:00:00 AM,29.8,1.8935,9854,04/26/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Received a vaccination,April Week 4,04/26/2025 12:00:00 AM,21.4,2.4905,2721,04/26/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,Up-to-date,Yes,April Week 4,04/26/2025 12:00:00 AM,19.4,2.0795,4777,04/26/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,April Week 4,04/26/2025 12:00:00 AM,21.2,7.2464,170,04/26/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Received a vaccination,April Week 4,04/26/2025 12:00:00 AM,27.2,1.9044,9267,04/26/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,April Week 4,04/26/2025 12:00:00 AM,38.6,6.3685,300,04/26/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,April Week 4,04/26/2025 12:00:00 AM,6.2,3.6079,170,04/26/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,Up-to-date,Yes,April Week 4,04/26/2025 12:00:00 AM,27.2,1.9044,9267,04/26/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,April Week 4,04/26/2025 12:00:00 AM,34.5,19.9932,44,04/26/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,April Week 4,04/26/2025 12:00:00 AM,53.2,9.1937,170,04/26/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,April Week 4,04/26/2025 12:00:00 AM,5.7,9.8552,44,04/26/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Received a vaccination,April Week 3,04/19/2025 12:00:00 AM,29.8,1.8935,9854,04/19/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,April Week 3,04/19/2025 12:00:00 AM,7,3.7679,283,04/19/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,Up-to-date,Yes,April Week 3,04/19/2025 12:00:00 AM,18.8,1.7053,4777,04/19/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,April Week 3,04/19/2025 12:00:00 AM,10.4,4.7351,328,04/19/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Received a vaccination,April Week 3,04/19/2025 12:00:00 AM,27.2,1.9044,9267,04/19/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,April Week 3,04/19/2025 12:00:00 AM,45.7,20.2209,45,04/19/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,April Week 3,04/19/2025 12:00:00 AM,1.4,1.9857,45,04/19/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,April Week 3,04/19/2025 12:00:00 AM,31.5,20.1914,45,04/19/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,April Week 3,04/19/2025 12:00:00 AM,35.1,7.0627,328,04/19/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,April Week 3,04/19/2025 12:00:00 AM,8.3,5.3597,114,04/19/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Received a vaccination,April Week 3,04/19/2025 12:00:00 AM,18.8,1.7053,4777,04/19/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,April Week 3,04/19/2025 12:00:00 AM,27.2,6.4553,328,04/19/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,Up-to-date,Yes,April Week 3,04/19/2025 12:00:00 AM,27.2,1.9044,9267,04/19/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,April Week 3,04/19/2025 12:00:00 AM,31.8,6.804,283,04/19/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,Up-to-date,Yes,April Week 3,04/19/2025 12:00:00 AM,21.4,2.4905,2721,04/19/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Received a vaccination,April Week 3,04/19/2025 12:00:00 AM,21.4,2.4905,2721,04/19/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,April Week 3,04/19/2025 12:00:00 AM,32.4,8.3606,114,04/19/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,April Week 3,04/19/2025 12:00:00 AM,40.5,9.607,114,04/19/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,Up-to-date,Yes,April Week 3,04/19/2025 12:00:00 AM,29.8,1.8935,9854,04/19/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,April Week 3,04/19/2025 12:00:00 AM,31.4,6.6097,283,04/19/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Received a vaccination,April Week 2,04/12/2025 12:00:00 AM,18.8,1.7053,4777,04/12/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,April Week 2,04/12/2025 12:00:00 AM,40.8,11.4857,114,04/12/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,April Week 2,04/12/2025 12:00:00 AM,12.3,7.7024,114,04/12/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,Up-to-date,Yes,April Week 2,04/12/2025 12:00:00 AM,21.4,2.4905,2721,04/12/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,April Week 2,04/12/2025 12:00:00 AM,8,4.5025,277,04/12/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,April Week 2,04/12/2025 12:00:00 AM,31.1,7.0544,277,04/12/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,April Week 2,04/12/2025 12:00:00 AM,8.9,3.6433,368,04/12/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Received a vaccination,April Week 2,04/12/2025 12:00:00 AM,29.8,1.9009,9854,04/12/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,April Week 2,04/12/2025 12:00:00 AM,33.7,7.0873,277,04/12/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Received a vaccination,April Week 2,04/12/2025 12:00:00 AM,27.2,1.9044,9267,04/12/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,April Week 2,04/12/2025 12:00:00 AM,36.5,5.9985,368,04/12/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,April Week 2,04/12/2025 12:00:00 AM,24.9,5.439,368,04/12/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,Up-to-date,Yes,April Week 2,04/12/2025 12:00:00 AM,29.8,1.9009,9854,04/12/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,April Week 2,04/12/2025 12:00:00 AM,20.8,8.9,112,04/12/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,April Week 2,04/12/2025 12:00:00 AM,7.5,5.4954,112,04/12/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,Up-to-date,Yes,April Week 2,04/12/2025 12:00:00 AM,18.8,1.7053,4777,04/12/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Received a vaccination,April Week 2,04/12/2025 12:00:00 AM,21.4,2.4905,2721,04/12/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,April Week 2,04/12/2025 12:00:00 AM,25.5,10.3218,114,04/12/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,Up-to-date,Yes,April Week 2,04/12/2025 12:00:00 AM,27.2,1.9044,9267,04/12/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,April Week 2,04/12/2025 12:00:00 AM,52.9,11.0268,112,04/12/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,Up-to-date,Yes,April Week 1,04/05/2025 12:00:00 AM,18.8,1.7053,4777,04/05/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,April Week 1,04/05/2025 12:00:00 AM,7.1,8.8043,92,04/05/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,April Week 1,04/05/2025 12:00:00 AM,37.3,22.6213,36,04/05/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Received a vaccination,April Week 1,04/05/2025 12:00:00 AM,21.4,2.4905,2721,04/05/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,April Week 1,04/05/2025 12:00:00 AM,10.6,4.8055,168,04/05/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Received a vaccination,April Week 1,04/05/2025 12:00:00 AM,18.8,1.7053,4777,04/05/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,April Week 1,04/05/2025 12:00:00 AM,24,7.0584,168,04/05/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,April Week 1,04/05/2025 12:00:00 AM,22.1,19.5041,36,04/05/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Received a vaccination,April Week 1,04/05/2025 12:00:00 AM,29.6,1.8866,9854,04/05/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,Up-to-date,Yes,April Week 1,04/05/2025 12:00:00 AM,21.4,2.4905,2721,04/05/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,April Week 1,04/05/2025 12:00:00 AM,27.7,16.7866,92,04/05/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,April Week 1,04/05/2025 12:00:00 AM,38.7,12.5315,63,04/05/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,April Week 1,04/05/2025 12:00:00 AM,6,5.3531,63,04/05/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,4-level vaccination and intent,Probably will get a vaccine or are unsure,April Week 1,04/05/2025 12:00:00 AM,25.6,11.1971,63,04/05/2025 12:00:00 AM,2024-2025,0
+COVID,State,Nevada,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,April Week 1,04/05/2025 12:00:00 AM,46.6,8.3907,168,04/05/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Definitely or probably will not get a vaccine,April Week 1,04/05/2025 12:00:00 AM,38,17.1476,92,04/05/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,4-level vaccination and intent,Received a vaccination,April Week 1,04/05/2025 12:00:00 AM,27.2,1.9044,9267,04/05/2025 12:00:00 AM,2024-2025,0
+COVID,State,Arizona,Overall,18+ years,4-level vaccination and intent,Definitely will get a vaccine,April Week 1,04/05/2025 12:00:00 AM,19.2,1.9058,36,04/05/2025 12:00:00 AM,2024-2025,0
+COVID,State,California,Overall,18+ years,Up-to-date,Yes,April Week 1,04/05/2025 12:00:00 AM,27.2,1.9044,9267,04/05/2025 12:00:00 AM,2024-2025,0
+COVID,State,Hawaii,Overall,18+ years,Up-to-date,Yes,April Week 1,04/05/2025 12:00:00 AM,29.6,1.8866,9854,04/05/2025 12:00:00 AM,2024-2025,0
